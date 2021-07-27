@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "outDir": "build",
+        "esModuleInterop": true,
+        "noImplicitAny": true,
+        "noUnusedLocals": true,
+    },
+    "include": ["src/*"],
+    "exclude": ["node_modules"]
+}
